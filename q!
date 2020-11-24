@@ -1,0 +1,36 @@
+[33mcommit eead55d399a430f2d94f4af8630c302b2d3c71ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 8ddcedc 7945d80
+Author: ola <olah.festus@gmail.com>
+Date:   Tue Nov 24 15:15:36 2020 -0600
+
+    Merge branch 'test' into main
+
+[33mcommit 8ddcedc2b87d21f220018094cecff50b6b1dc153[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ola <olah.festus@gmail.com>
+Date:   Tue Nov 24 15:10:34 2020 -0600
+
+    added file5
+
+[33mcommit 7945d805e51af487063c7faf18b7c2b6a2a6cf17[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: ola <olah.festus@gmail.com>
+Date:   Tue Nov 24 15:05:03 2020 -0600
+
+    added file1
+
+[33mcommit ef117f4210976c77dc03683679196565092d4582[m
+Author: ola <olah.festus@gmail.com>
+Date:   Sun Nov 22 09:19:23 2020 -0600
+
+    updated files
+
+[33mcommit 3e40889c7f66b414e5d013211a0959ce55efc78f[m
+Author: ola <olah.festus@gmail.com>
+Date:   Sat Nov 21 23:26:56 2020 -0600
+
+    adding file3 and file2 as well
+
+[33mcommit f48e375a06b6ca7ca9325f8e6aa485e02168875e[m
+Author: ola <olah.festus@gmail.com>
+Date:   Sat Nov 21 23:06:28 2020 -0600
+
+    this is my 1st commit
